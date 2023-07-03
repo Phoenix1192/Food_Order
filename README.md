@@ -1,6 +1,5 @@
 # Getting Started with the App
-
-Welcome to the *FOODMUNCH*  
+  
 Life is hectic nowadays, who has the time to get food from the nearest restaurant?  
 Every second saved means more fun time with friends and family.  
 
